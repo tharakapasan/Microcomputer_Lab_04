@@ -142,7 +142,7 @@ In here, we use sensors as the switches.So, this is the hardware implementation 
         }
     }
     return();
-}
+    }
 
 
 
